@@ -13,12 +13,3 @@ The project is structured to simulate a finance dashboard, featuring modular com
 - **Responsive Layout**: Built with modern web design principles.  
 - **Vite**: Leveraged for fast development and optimized builds.  
 
-## Getting Started  
-### Prerequisites  
-- Node.js installed on your system.  
-
-### Setup  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/<your-username>/FINANCE-DASHBOARD.git  
-   cd FINANCE-DASHBOARD  
